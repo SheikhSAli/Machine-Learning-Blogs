@@ -1,2 +1,2 @@
-# Machine-Learning-Blogs-
+# Machine-Learning-Blogs
 Two machine learning blogs .
